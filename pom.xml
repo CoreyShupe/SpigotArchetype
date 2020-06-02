@@ -6,7 +6,7 @@
 
     <groupId>me.fixed</groupId>
     <artifactId>spigot-archetype</artifactId>
-    <version>0.0.3</version>
+    <version>0.0.4</version>
     <packaging>maven-archetype</packaging>
 
     <name>Spigot-Archetype</name>
