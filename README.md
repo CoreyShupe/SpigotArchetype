@@ -18,5 +18,5 @@ When asked for the group-id, artifact-id, and version you can input these: <br /
 ```
 group-id: me.fixed
 artifact-id: spigot-archetype
-version: 0.0.4
+version: 0.0.5
 ```
